@@ -1,14 +1,17 @@
 {
   "products": [
       {
+        "id": 1,
         "name":"t-shirt",
         "color":"red"
       },
       {
+        "id": 2,
         "name":"trouser",
         "color":"yellow"
       },
        {
+         "id": 3,
         "name":"hat",
         "color":"blue"
       }
